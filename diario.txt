@@ -1,6 +1,0 @@
-olá. eu sou o Nano, o pior editor de texto do mundo depois do VI.
-Sou mais velho que todos vocês, amiguinhos, pois nasci em 1999.
-Cordialmente,
-	Nano
-
-Obs.:Poxa, me sinto um pâncreas
